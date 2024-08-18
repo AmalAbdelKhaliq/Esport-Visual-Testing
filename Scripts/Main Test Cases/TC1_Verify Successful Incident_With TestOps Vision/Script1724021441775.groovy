@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://qa.saudiesports.sa/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Page_Esports/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'), 'yasmine@yopmail.com')
@@ -31,5 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Fe
 
 WebUI.click(findTestObject('Object Repository/Page_Esports/div_Incidents'))
 
-WebUI.takeElementScreenshotAsCheckpoint('Incidents', findTestObject('Page_Esports/div_Complaint241121 Plaintiff clubbbfadde D_9d6025'))
+WebUI.takeElementScreenshotAsCheckpoint('Incidents', findTestObject('Object Repository/Page_Esports/div_Complaint241121 Plaintiff clubbbfadde D_9d6025'))
+
+WebUI.closeBrowser()
 
