@@ -25,15 +25,23 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_Esports/button_Login'))
 
+WebUI.takeElementScreenshotAsCheckpoint('Login Dialog Origin', findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/div_Log In                    Welcome to Es_48b420'))
+
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'), 'yasmine@yopmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
+WebUI.takeElementScreenshotAsCheckpoint('Login Dialog With Data', findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/div_Log In                    Welcome to Es_48b420'))
+
 WebUI.click(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Esports/div_Incidents'))
+WebUI.click(findTestObject('Object Repository/Page_Esports/span_Users'))
 
-WebUI.takeElementScreenshotAsCheckpoint('Incidents', findTestObject('Object Repository/Page_Esports/div_Complaint241121 Plaintiff clubbbfadde D_9d6025'))
+WebUI.takeElementScreenshotAsCheckpoint('User List', findTestObject('Object Repository/Page_Esports/app-user-list_0user threeuserthreeyopmail.c_8ea037'))
+
+WebUI.click(findTestObject('Object Repository/Page_Esports/div_Employee_col-sm-12 col-md-12 col-lg-7 c_e56339'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Esports/span_userthreeyopmail.com'), 'userthree@yopmail.com')
 
 WebUI.closeBrowser()
 

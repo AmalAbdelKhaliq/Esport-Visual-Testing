@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>angular-org-chart_SFESFERegionGeneral Regio_b65f5c</name>
+   <tag></tag>
+   <elementGuidId>3c54f9bc-3212-477b-8a2f-6255c98c6939</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#orgChartId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//angular-org-chart[@id='orgChartId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SFESFERegionGeneral Regionlevel newitemtesteeeetestsecond itemnew lvlsadasdshahn&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>angular-org-chart</value>
+      <webElementGuid>b8b5219d-79b4-4c36-998d-a7e0cbf7373c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>orgChartId</value>
+      <webElementGuid>052f9bba-aa91-4418-8c63-d3bd500b2eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SFESFERegionGeneral Regionlevel newitemtesteeeetestsecond itemnew lvlsadasdshahndajkilevel newitemmlevel newitemmmlevel newitemmmmlevel newitemelevel newitemmmmmmlevel newitemnlevel newitemnm</value>
+      <webElementGuid>4c5c457e-2ed1-4ffb-9c30-21f506b6badf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orgChartId&quot;)</value>
+      <webElementGuid>966056fb-7c9d-4638-a804-d076044c7cef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//angular-org-chart[@id='orgChartId']</value>
+      <webElementGuid>9af6a5e7-e81c-4580-80d5-72ef6691a70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree']/angular-org-chart</value>
+      <webElementGuid>c4c5a54d-cebd-4940-be79-8d0f6ab44acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Organization'])[1]/following::angular-org-chart[1]</value>
+      <webElementGuid>a65dbd18-4847-4968-8000-c6ed7e3502ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::angular-org-chart[1]</value>
+      <webElementGuid>b822c4cd-45be-474b-a56f-9820e1c64c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//angular-org-chart</value>
+      <webElementGuid>f1028c9c-ff54-49af-ba61-ddfe6f13999f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//angular-org-chart[@id = 'orgChartId' and (text() = 'SFESFERegionGeneral Regionlevel newitemtesteeeetestsecond itemnew lvlsadasdshahndajkilevel newitemmlevel newitemmmlevel newitemmmmlevel newitemelevel newitemmmmmmlevel newitemnlevel newitemnm' or . = 'SFESFERegionGeneral Regionlevel newitemtesteeeetestsecond itemnew lvlsadasdshahndajkilevel newitemmlevel newitemmmlevel newitemmmmlevel newitemelevel newitemmmmmmlevel newitemnlevel newitemnm')]</value>
+      <webElementGuid>94784c10-271d-4d45-9c63-3061b527eb47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

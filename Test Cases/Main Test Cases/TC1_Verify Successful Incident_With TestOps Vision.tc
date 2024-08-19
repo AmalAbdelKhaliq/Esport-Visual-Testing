@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC1_Verify Successful Incident_With TestOps Vision</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>78d540df-85a3-4849-b336-7c148f7e8f94</testCaseGuid>
-</TestCaseEntity>

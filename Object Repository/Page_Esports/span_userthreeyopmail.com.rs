@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_userthreeyopmail.com</name>
+   <tag></tag>
+   <elementGuidId>3f98675c-5837-44ff-a4da-67a118f48ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.user-email.text-1-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='user three'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;userthree@yopmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bcf7537-eee5-4e5f-b4da-d695c9cccde4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-email text-1-line</value>
+      <webElementGuid>058b7b80-e63a-4f6b-92f7-78d3049c0085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>userthree@yopmail.com</value>
+      <webElementGuid>ecdd0207-47a5-4f69-b091-4f5ad21bd707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-accounts-mangement[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/div[@class=&quot;grid-container row&quot;]/app-user-management[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/app-user-list[@class=&quot;list-container col-md-12 col-lg-5 col-xl-4 col-xxl-4 ng-star-inserted&quot;]/div[@class=&quot;card user-card mt-2 ng-star-inserted&quot;]/div[@class=&quot;card-body d-flex&quot;]/div[@class=&quot;user-info d-flex&quot;]/div[@class=&quot;overflow-hidden&quot;]/span[@class=&quot;user-email text-1-line&quot;]</value>
+      <webElementGuid>c1c3b0bb-bfce-4920-8204-732c7a672863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='user three'])[1]/following::span[1]</value>
+      <webElementGuid>a86df05b-55ef-4c00-8048-8ab216e17250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profiles'])[1]/following::span[2]</value>
+      <webElementGuid>9e31a849-e26b-4b38-b8a1-fe5f5140426a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::span[1]</value>
+      <webElementGuid>c03cd5a7-2357-4a2a-b5c8-d8c767860d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[1]/preceding::span[2]</value>
+      <webElementGuid>cee1c767-2760-404b-ad7a-17276fe88ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='userthree@yopmail.com']/parent::*</value>
+      <webElementGuid>a07700b3-5ac4-4149-acc7-ccc8515300de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/span</value>
+      <webElementGuid>059c067d-3aab-4b18-a715-e026c96ed753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'userthree@yopmail.com' or . = 'userthree@yopmail.com')]</value>
+      <webElementGuid>7fd92fb9-a345-4716-a6fb-9414ba73f43c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
